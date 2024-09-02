@@ -1,0 +1,2 @@
+###
+GET http://localhost:6001/readDestinationDetails?destination=batch1cap
